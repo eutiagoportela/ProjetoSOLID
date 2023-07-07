@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Projeto.LeilaoOnline.CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "listar"
+    }
+  }
+}
